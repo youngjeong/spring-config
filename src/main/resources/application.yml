@@ -1,5 +1,4 @@
-#greeting: Hello %s from GitHub!
-greeting: Howdy %s!
+greeting: Hello %s!
 
 security:
   basic:
